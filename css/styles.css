@@ -2162,19 +2162,19 @@ a:hover.back-to-top {
 	.footer .footer-col.first {
 		display: inline-block;
 		width: 14rem;
-		margin-right: 2.5rem;
+		margin-right: 5rem;
 	}
 	
 	.footer .footer-col.second {
 		width: 14rem;
-		margin-right: 2.25rem;
+		margin-right: 5rem;
 	}
 
 
 	.footer .footer-col.third,
 	.footer .footer-col.fourth {
-		width: 8.5rem;
-		margin-right: 3.25rem;
+		width: 10.5rem;
+		margin-right: -2rem;
 	}
 
 	.footer .fa-stack:last-of-type {
