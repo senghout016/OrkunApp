@@ -1042,12 +1042,12 @@ input[type='checkbox'] {
 }
 
 .tabs .nav-link.active {
-	background-color: #9a67e7;
+	background-color: #ffb30f;
 	color: #fff;
 }
 
 .tabs .nav-link:hover {
-	background-color: #9a67e7;
+	background-color: #ffb30f;
 	color: #fff;
 }
 
